@@ -162,3 +162,5 @@ Test your shell by running the following commands in it (in order):
 
     pid                                        ; zombie avoidance checking
     /bin/ps -lfu USERNAME | grep defunct       ; replace USERNAME with your username
+
+    [![Run on Repl.it](https://repl.it/badge/github/michaeli-g/OS-Shell)](https://repl.it/github/michaeli-g/OS-Shell)
