@@ -1,5 +1,4 @@
-[![Run on Repl.it](https://repl.it/badge/github/michaeli-g/OS-Shell)](https://repl.it/github/michaeli-g/OS-Shell)
-# OS-Shell
+# OS-Shell [![Run on Repl.it](https://repl.it/badge/github/michaeli-g/OS-Shell)](https://repl.it/github/michaeli-g/OS-Shell)
 ## CISC 361 Assignment
 Objective
 The main objective of this assignment is to adding more functionalities to your shell from Project 2. So the first step is to get your shell from Project 2 working, or at least enough to implement features for this project, if it doesn't already work. (A minimally working Project 2 code.) The assignment introduces programming with POSIX threads (pthreads), including mutual exclusion with pthreads. Experience with some more system calls and C library functions will also be done to hone your programming skills. Reading of man pages will also be a must to do well.
